@@ -20,38 +20,38 @@
 
 ---
 
-## 🚀 Overview
+## Overview
 
 **Fasal Rakshak** is an AI-powered crop health inspection and contamination detection prototype. It demonstrates a mobile four-wheel hyperspectral rover that scans field rows, compares each surface against an adaptive clean baseline, and flags contamination risk before harvest reaches the next process.
 
 ### Key Features
 
-- **🔬 Multi-Spectral Sensing** — HSI (400–1000 nm), NIR (900–1700 nm), UV (254–400 nm), and RGB capture synchronized in a single pass
-- **📊 Adaptive Clean Baseline** — The reference adapts to batch, variety, lighting, and field conditions — not a static threshold
-- **🗺️ Surface Response Map** — Progressive heatmap visualization showing spectral response intensity across a spatial grid
-- **⚡ Edge AI Risk Scoring** — Risk classification runs locally on the rover with under 180 ms latency
-- **🔄 Live Simulation** — Interactive 7-stage deterministic simulation from rover dispatch to action recording
-- **📋 Inspection Trace** — Every scan produces a full event stream for operator review and audit
+- **Multi-Spectral Sensing** — HSI (400–1000 nm), NIR (900–1700 nm), UV (254–400 nm), and RGB capture synchronized in a single pass
+- **Adaptive Clean Baseline** — The reference adapts to batch, variety, lighting, and field conditions — not a static threshold
+- **Surface Response Map** — Progressive heatmap visualization showing spectral response intensity across a spatial grid
+- **Edge AI Risk Scoring** — Risk classification runs locally on the rover with under 180 ms latency
+- **Live Simulation** — Interactive 7-stage deterministic simulation from rover dispatch to action recording
+- **Inspection Trace** — Every scan produces a full event stream for operator review and audit
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 Fasal Rakshak System
-├── 🚜 Rover Platform (4WD / IP65 / Solar + Battery)
+├──  Rover Platform (4WD / IP65 / Solar + Battery)
 │   ├── Raised HSI Camera Mast
 │   ├── NIR / UV / RGB Sensors
 │   ├── LiDAR + GPS Navigation
 │   └── Edge AI Enclosure
 │
-├── 📡 Sense → Decide → Act Pipeline
+├──  Sense → Decide → Act Pipeline
 │   ├── Synchronized spectral capture
 │   ├── Feature extraction & baseline comparison
 │   ├── Spectral anomaly detection
 │   └── Risk classification & action routing
 │
-└── 💻 Operator Console (this prototype)
+└──  Operator Console (this prototype)
     ├── Live inspection dashboard
     ├── Spectral health fingerprint charts
     ├── Surface response heatmap
@@ -60,7 +60,7 @@ Fasal Rakshak System
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 fasal-rakshak/
@@ -90,7 +90,7 @@ fasal-rakshak/
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -132,7 +132,7 @@ Open **http://localhost:5173** in your browser.
 
 ---
 
-## 🎨 Design System
+## Design System
 
 The interface uses a curated agricultural-inspired palette:
 
@@ -151,7 +151,7 @@ The interface uses a curated agricultural-inspired palette:
 
 ---
 
-## 🧪 Inspection Workflow (7 Stages)
+## Inspection Workflow (7 Stages)
 
 | Stage | Process | Description |
 |-------|---------|-------------|
@@ -165,7 +165,7 @@ The interface uses a curated agricultural-inspired palette:
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -178,15 +178,10 @@ The interface uses a curated agricultural-inspired palette:
 | **Validation** | Zod, TypeBox |
 | **API** | Hono (server), Orval (client gen) |
 
----
-
-## ⚠️ Disclaimer
-
-> This is a **prototype interface** for demonstration purposes. Spectral anomaly detection is a screening signal — it does **not** constitute laboratory-certified pathogen identification or guaranteed contamination detection. The system is designed as a first-line inspection tool to flag items for further review.
 
 ---
 
-## 👥 Team Tech Saarthi
+## Team Tech Saarthi
 
 Built for **Smart India Hackathon 2026**
 - **Problem Statement:** 1788 — Food Safety & Contamination Detection
