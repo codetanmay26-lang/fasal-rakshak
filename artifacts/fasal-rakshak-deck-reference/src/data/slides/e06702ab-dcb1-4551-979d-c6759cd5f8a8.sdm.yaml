@@ -1,0 +1,1157 @@
+format: sdm
+version: 1
+size:
+  width: 1920
+  height: 1080
+background:
+  kind: solid
+  color:
+    kind: rgb
+    value: "#ffffff"
+theme:
+  colors:
+    dk1: "#000000"
+    dk2: "#1F497D"
+    lt1: "#FFFFFF"
+    lt2: "#EEECE1"
+    accent1: "#4F81BD"
+    accent2: "#C0504D"
+    accent3: "#9BBB59"
+    accent4: "#8064A2"
+    accent5: "#4BACC6"
+    accent6: "#F79646"
+    hlink: "#0000FF"
+    folHlink: "#800080"
+  fonts:
+    display: Calibri
+    body: Calibri
+assets:
+  image-2:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_2.png
+  image-3:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_3.png
+  image-18:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_18.png
+  image-19:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_19.png
+  image-20:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_20.png
+  image-21:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_21.png
+  image-22:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_22.png
+  image-23:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_23.png
+  image-24:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_24.png
+  image-25:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_25.png
+  image-26:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_26.png
+  image-27:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_27.png
+elements:
+  - id: e0
+    name: TextBox 2
+    frame:
+      x: 1798.67
+      y: 1001.55
+      width: 13.62
+      height: 34.3
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: "4"
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 18
+              weight: 700
+              color:
+                kind: rgb
+                value: "#FFFFFF"
+          align: left
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e1
+    name: Freeform 3
+    frame:
+      x: 1274.3
+      y: 540
+      width: 637.74
+      height: 540
+    type: shape
+    geometry:
+      kind: path
+      viewBox:
+        width: 1
+        height: 1
+      path: M 0 0 L 1 0 L 1 1 L 0 1 L 0 0 Z
+    fill:
+      kind: none
+  - id: e2
+    name: Group 4
+    frame:
+      x: 1520.53
+      y: 904.46
+      width: 378.39
+      height: 142.43
+    type: group
+    coordinateSpace:
+      width: 378.39
+      height: 142.43
+    children:
+      - id: e2-0
+        name: Freeform 5
+        frame:
+          x: 0
+          y: 0
+          width: 378.39
+          height: 142.43
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0.09925 0 C 0.04444 0 0 0.11806 0 0.26368 L 0 0.73811 C 0 0.87328 0.03828 0.98473 0.08762 1 L 0.91313 1 C 0.95843 0.98597 0.9944 0.8909 1 0.7708 L 1 0.231 C 0.99393 0.1008 0.95215 0 0.9015 0 Z
+        fill:
+          kind: image
+          assetId: image-18
+          fit: fill
+  - id: e3
+    name: Group 6
+    frame:
+      x: 1284.6
+      y: 889.04
+      width: 214.97
+      height: 163.14
+    type: group
+    coordinateSpace:
+      width: 214.97
+      height: 163.14
+    children:
+      - id: e3-0
+        name: Freeform 7
+        frame:
+          x: 0
+          y: 0
+          width: 214.97
+          height: 163.14
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0.12612 0 C 0.05636 0.00078 0 0.07555 0 0.16763 L 0 0.83237 C 0 0.92495 0.05695 1 0.12722 1 L 0.87393 1 C 0.93837 1 0.99163 0.93684 1 0.85498 L 1 0.14502 C 0.99169 0.06362 0.93896 0.0007 0.87503 0 Z
+        fill:
+          kind: image
+          assetId: image-19
+          fit: fill
+  - id: e4
+    name: Group 8
+    frame:
+      x: 1284.6
+      y: 658.2
+      width: 214.97
+      height: 192.52
+    type: group
+    coordinateSpace:
+      width: 214.97
+      height: 192.52
+    children:
+      - id: e4-0
+        name: Freeform 9
+        frame:
+          x: 0
+          y: 0
+          width: 214.97
+          height: 192.52
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0.15553 0 C 0.06953 0.00076 0 0.07886 0 0.1751 L 0 0.8249 C 0 0.9216 0.07021 1 0.1568 1 L 0.84435 1 C 0.9245 1 0.99059 0.93284 1 0.84618 L 1 0.15382 C 0.99065 0.06759 0.92518 0.00069 0.84559 0 Z
+        fill:
+          kind: image
+          assetId: image-20
+          fit: fill
+  - id: e5
+    name: Group 10
+    frame:
+      x: 1569.47
+      y: -3.8
+      width: 347.89
+      height: 176.83
+    type: group
+    coordinateSpace:
+      width: 347.89
+      height: 176.83
+    children:
+      - id: e5-0
+        name: Freeform 11
+        frame:
+          x: 0
+          y: 0
+          width: 347.89
+          height: 176.83
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0 0 L 1 0 L 1 1 L 0 1 L 0 0 Z
+        fill:
+          kind: image
+          assetId: image-2
+          fit: fill
+  - id: e6
+    name: Group 12
+    frame:
+      x: 5.71
+      y: 3.44
+      width: 165.96
+      height: 148.18
+    type: group
+    coordinateSpace:
+      width: 165.96
+      height: 148.18
+    children:
+      - id: e6-0
+        name: Freeform 13
+        frame:
+          x: 0
+          y: 0
+          width: 165.96
+          height: 148.18
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0.5 0 C 0.22386 0 0 0.22386 0 0.5 C 0 0.77614 0.22386 1 0.5 1 C 0.77614 1 1 0.77614 1 0.5 C 1 0.22386 0.77614 0 0.5 0 Z
+        fill:
+          kind: image
+          assetId: image-3
+          fit: fill
+  - id: e7
+    name: TextBox 14
+    frame:
+      x: 436.44
+      y: 21.21
+      width: 1068.04
+      height: 104.8
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: FEASIBILITY AND VIABILITY
+              font:
+                kind: family
+                family: Times New Roman MT Bold
+              sizePt: 54
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: left
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e8
+    name: TextBox 15
+    frame:
+      x: 1459.39
+      y: 606.97
+      width: 481.72
+      height: 88.37
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: 4-WAY SENSING
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 28.12
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.17
+        - runs:
+            - text: NON-DESTRUCTIVE
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 28.12
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.17
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e9
+    name: TextBox 16
+    frame:
+      x: 1292.73
+      y: 555.27
+      width: 573.19
+      height: 35.33
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: MODULAR & SCALABLE SYSTEM DESIGN
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 19.12
+              weight: 700
+              color:
+                kind: rgb
+                value: "#F16315"
+          align: left
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e10
+    name: Group 17
+    frame:
+      x: 1353.25
+      y: 89.03
+      width: 592.71
+      height: 562.62
+    type: group
+    coordinateSpace:
+      width: 592.71
+      height: 562.62
+    children:
+      - id: e10-0
+        name: Freeform 18
+        frame:
+          x: 0
+          y: 0
+          width: 562.62
+          height: 562.62
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0 0 L 1 0 L 1 1 L 0 1 L 0 0 Z
+        fill:
+          kind: image
+          assetId: image-21
+          fit: fill
+      - id: e10-1
+        name: TextBox 19
+        frame:
+          x: 335.05
+          y: 297.96
+          width: 181.34
+          height: 82.15
+        type: text
+        body:
+          paragraphs:
+            - runs:
+                - text: GLOBAL FOOD PROCESSING INDUSTRY
+                  font:
+                    kind: family
+                    family: Canva Sans
+                  sizePt: 15.36
+                  color:
+                    kind: rgb
+                    value: "#000000"
+              align: center
+              lineHeight: 1.4
+          verticalAlign: top
+          overflow: visible
+          insetsPt:
+            top: 0
+            right: 0
+            bottom: 0
+            left: 0
+      - id: e10-2
+        name: TextBox 20
+        frame:
+          x: 258.72
+          y: 206.68
+          width: 333.99
+          height: 54.15
+        type: text
+        body:
+          paragraphs:
+            - runs:
+                - text: "INLINE FOOD "
+                  font:
+                    kind: family
+                    family: Canva Sans
+                  sizePt: 15.36
+                  color:
+                    kind: rgb
+                    value: "#000000"
+              align: center
+              lineHeight: 1.4
+            - runs:
+                - text: INSPECTION MARKET
+                  font:
+                    kind: family
+                    family: Canva Sans
+                  sizePt: 15.36
+                  color:
+                    kind: rgb
+                    value: "#000000"
+              align: center
+              lineHeight: 1.4
+          verticalAlign: top
+          overflow: visible
+          insetsPt:
+            top: 0
+            right: 0
+            bottom: 0
+            left: 0
+      - id: e10-3
+        name: TextBox 21
+        frame:
+          x: 236.96
+          y: 101.17
+          width: 302.56
+          height: 54.15
+        type: text
+        body:
+          paragraphs:
+            - runs:
+                - text: INITIAL TARGET
+                  font:
+                    kind: family
+                    family: Canva Sans
+                  sizePt: 15.36
+                  color:
+                    kind: rgb
+                    value: "#000000"
+              align: center
+              lineHeight: 1.4
+            - runs:
+                - text: " SEGMENT"
+                  font:
+                    kind: family
+                    family: Canva Sans
+                  sizePt: 15.36
+                  color:
+                    kind: rgb
+                    value: "#000000"
+              align: center
+              lineHeight: 1.4
+          verticalAlign: top
+          overflow: visible
+          insetsPt:
+            top: 0
+            right: 0
+            bottom: 0
+            left: 0
+      - id: e10-4
+        name: TextBox 22
+        frame:
+          x: 142.24
+          y: 365.39
+          width: 144.2
+          height: 68.59
+        type: text
+        body:
+          paragraphs:
+            - runs:
+                - text: "TAM "
+                  font:
+                    kind: family
+                    family: Canva Sans Bold
+                  sizePt: 39.25
+                  weight: 700
+                  color:
+                    kind: rgb
+                    value: "#000000"
+              align: center
+              lineHeight: 1.4
+          verticalAlign: top
+          overflow: visible
+          insetsPt:
+            top: 0
+            right: 0
+            bottom: 0
+            left: 0
+      - id: e10-5
+        name: TextBox 23
+        frame:
+          x: 169.95
+          y: 251.21
+          width: 88.78
+          height: 49
+        type: text
+        body:
+          paragraphs:
+            - runs:
+                - text: "SAM "
+                  font:
+                    kind: family
+                    family: Canva Sans Bold
+                  sizePt: 27.87
+                  weight: 700
+                  color:
+                    kind: rgb
+                    value: "#000000"
+              align: center
+              lineHeight: 1.4
+          verticalAlign: top
+          overflow: visible
+          insetsPt:
+            top: 0
+            right: 0
+            bottom: 0
+            left: 0
+      - id: e10-6
+        name: TextBox 24
+        frame:
+          x: 182.91
+          y: 178.98
+          width: 54.04
+          height: 29.94
+        type: text
+        body:
+          paragraphs:
+            - runs:
+                - text: SOM
+                  font:
+                    kind: family
+                    family: Canva Sans Bold
+                  sizePt: 17.52
+                  weight: 700
+                  color:
+                    kind: rgb
+                    value: "#000000"
+              align: center
+              lineHeight: 1.4
+          verticalAlign: top
+          overflow: visible
+          insetsPt:
+            top: 0
+            right: 0
+            bottom: 0
+            left: 0
+  - id: e11
+    name: Freeform 25
+    frame:
+      x: 21.03
+      y: 249.71
+      width: 144.07
+      height: 146.49
+    type: shape
+    geometry:
+      kind: path
+      viewBox:
+        width: 1
+        height: 1
+      path: M 0 0 L 1 0 L 1 1 L 0 1 L 0 0 Z
+    fill:
+      kind: image
+      assetId: image-22
+      fit: fill
+  - id: e12
+    name: Freeform 26
+    frame:
+      x: 23.24
+      y: 445.19
+      width: 146.07
+      height: 151.11
+    type: shape
+    geometry:
+      kind: path
+      viewBox:
+        width: 1
+        height: 1
+      path: M 0 0 L 1 0 L 1 1 L 0 1 L 0 0 Z
+    fill:
+      kind: image
+      assetId: image-23
+      fit: fill
+  - id: e13
+    name: Freeform 27
+    frame:
+      x: 21.1
+      y: 679.1
+      width: 150.36
+      height: 146.86
+    type: shape
+    geometry:
+      kind: path
+      viewBox:
+        width: 1
+        height: 1
+      path: M 0 0 L 1 0 L 1 1 L 0 1 L 0 0 Z
+    fill:
+      kind: image
+      assetId: image-24
+      fit: fill
+  - id: e14
+    name: Freeform 28
+    frame:
+      x: 20.06
+      y: 861.77
+      width: 145.03
+      height: 147.36
+    type: shape
+    geometry:
+      kind: path
+      viewBox:
+        width: 1
+        height: 1
+      path: M 0 0 L 1 0 L 1 1 L 0 1 L 0 0 Z
+    fill:
+      kind: image
+      assetId: image-25
+      fit: fill
+  - id: e15
+    name: Freeform 29
+    frame:
+      x: 353.55
+      y: 159.85
+      width: 195.07
+      height: 52.16
+    rotationDeg: -29.16
+    flipH: true
+    flipV: true
+    type: shape
+    geometry:
+      kind: path
+      viewBox:
+        width: 1
+        height: 1
+      path: M 1 1 L 0 1 L 0 0 L 1 0 L 1 1 Z
+    fill:
+      kind: none
+  - id: e16
+    name: Freeform 30
+    frame:
+      x: 1363.24
+      y: 107.88
+      width: 57.69
+      height: 172.19
+    rotationDeg: -45
+    type: shape
+    geometry:
+      kind: path
+      viewBox:
+        width: 1
+        height: 1
+      path: M 0 0 L 1 0 L 1 1 L 0 1 L 0 0 Z
+    fill:
+      kind: none
+  - id: e17
+    name: Object 31
+    frame:
+      x: 548.92
+      y: 210.52
+      width: 594
+      height: 528
+    altText: Object 31
+    type: image
+    assetId: image-26
+    fit: fill
+  - id: e18
+    name: Group 32
+    frame:
+      x: 669.39
+      y: 132.53
+      width: 439.29
+      height: 59.92
+    type: group
+    coordinateSpace:
+      width: 439.29
+      height: 59.92
+    children:
+      - id: e18-0
+        name: Freeform 33
+        frame:
+          x: 0
+          y: 0
+          width: 439.29
+          height: 59.92
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0.0682 0 L 0.9318 0 C 0.96947 0 1 0.22386 1 0.5 L 1 0.5 C 1 0.77614 0.96947 1 0.9318 1 L 0.0682 1 C 0.03054 1 0 0.77614 0 0.5 L 0 0.5 C 0 0.22386 0.03054 0 0.0682 0 Z
+        fill:
+          kind: solid
+          color:
+            kind: rgb
+            value: "#6EDBC1"
+      - id: e18-1
+        name: TextBox 34
+        frame:
+          x: 0
+          y: -19.93
+          width: 439.29
+          height: 79.85
+        type: shape
+        geometry:
+          kind: preset
+          preset: rect
+        fill:
+          kind: none
+        body:
+          paragraphs:
+            - runs: []
+              align: center
+              lineHeight: 1.45
+          verticalAlign: middle
+          overflow: visible
+          insetsPt:
+            top: 4.76
+            right: 4.76
+            bottom: 4.76
+            left: 4.76
+  - id: e19
+    name: Freeform 35
+    frame:
+      x: 489.29
+      y: 825.83
+      width: 772.84
+      height: 242.18
+    type: shape
+    geometry:
+      kind: path
+      viewBox:
+        width: 1
+        height: 1
+      path: M 0 0 L 1 0 L 1 1 L 0 1 L 0 0 Z
+    fill:
+      kind: image
+      assetId: image-27
+      fit: fill
+  - id: e20
+    name: TextBox 36
+    frame:
+      x: 145.58
+      y: 145.62
+      width: 226.31
+      height: 34.3
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: Feasibility Analysis
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 18
+              weight: 700
+              color:
+                kind: rgb
+                value: "#FFFFFF"
+          align: left
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e21
+    name: TextBox 37
+    frame:
+      x: 1501.58
+      y: 720.38
+      width: 397.34
+      height: 154.8
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: Modular HSI, NIR, UV and RGB sensors enable continuous inline inspection. Edge AI enables rapid analysis, while automated sorting isolates high-risk products without interrupting the production line.
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 16.79
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.17
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e22
+    name: TextBox 38
+    frame:
+      x: 1162.74
+      y: 343.99
+      width: 589.76
+      height: 33.35
+    rotationDeg: -62.15
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: "MARKET VIABILITY PYRAMID "
+              font:
+                kind: family
+                family: Canva Sans Bold
+              sizePt: 18.73
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e23
+    name: TextBox 39
+    frame:
+      x: 190.28
+      y: 255.79
+      width: 271.56
+      height: 189.4
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: Technical
+              font:
+                kind: family
+                family: Canva Sans Bold
+              sizePt: 21
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+        - runs:
+            - text: "  HSI/NIR/UV + "
+              font:
+                kind: family
+                family: Canva Sans
+              sizePt: 20
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+        - runs:
+            - text: RGB sensing
+              font:
+                kind: family
+                family: Canva Sans
+              sizePt: 20
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+        - runs:
+            - text: " "
+              font:
+                kind: family
+                family: Canva Sans
+              sizePt: 21
+              color:
+                kind: rgb
+                value: "#000000"
+          align: justify
+          lineHeight: 1.4
+        - runs:
+            - text: " "
+              font:
+                kind: family
+                family: Canva Sans
+              sizePt: 21
+              color:
+                kind: rgb
+                value: "#000000"
+          align: justify
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e24
+    name: TextBox 40
+    frame:
+      x: 157
+      y: 862.22
+      width: 332.29
+      height: 184.67
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: "   Operational     "
+              font:
+                kind: family
+                family: Canva Sans Bold
+              sizePt: 20
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+        - runs:
+            - text: Inline, non-destructive inspection
+              font:
+                kind: family
+                family: Canva Sans
+              sizePt: 20
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+        - runs:
+            - text: " Automated sorting & quarantine"
+              font:
+                kind: family
+                family: Canva Sans
+              sizePt: 20
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e25
+    name: TextBox 41
+    frame:
+      x: 148.89
+      y: 434.55
+      width: 348.51
+      height: 221.67
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: Economic
+              font:
+                kind: family
+                family: Canva Sans Bold
+              sizePt: 20
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+        - runs:
+            - text: "Costs: Hardware + Development"
+              font:
+                kind: family
+                family: Canva Sans
+              sizePt: 20
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+        - runs:
+            - text: " Revenue: B2B System Deployment"
+              font:
+                kind: family
+                family: Canva Sans
+              sizePt: 20
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+        - runs: []
+          defaultRunStyle:
+            font:
+              kind: family
+              family: Canva Sans
+            sizePt: 20
+            color:
+              kind: rgb
+              value: "#000000"
+          align: center
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e26
+    name: TextBox 42
+    frame:
+      x: 169.31
+      y: 690.34
+      width: 341.67
+      height: 147.67
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: Legal & Regulatory
+              font:
+                kind: family
+                family: Canva Sans Bold
+              sizePt: 20
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+        - runs:
+            - text: " Food-safety compliance,"
+              font:
+                kind: family
+                family: Canva Sans
+              sizePt: 20
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+        - runs:
+            - text: " Data security"
+              font:
+                kind: family
+                family: Canva Sans
+              sizePt: 20
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+        - runs:
+            - text: " "
+              font:
+                kind: family
+                family: Canva Sans
+              sizePt: 20
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e27
+    name: TextBox 43
+    frame:
+      x: 680.67
+      y: 125.81
+      width: 416.73
+      height: 63.36
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: Economic Viability
+              font:
+                kind: family
+                family: Canva Sans Bold
+              sizePt: 34.28
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.5
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e28
+    name: TextBox 44
+    frame:
+      x: 636.76
+      y: 761.16
+      width: 477.9
+      height: 64.67
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: Dual Model Approach
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 34.99
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0

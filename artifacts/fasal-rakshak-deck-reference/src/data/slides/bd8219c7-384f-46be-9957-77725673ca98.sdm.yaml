@@ -1,0 +1,1584 @@
+format: sdm
+version: 1
+size:
+  width: 1920
+  height: 1080
+background:
+  kind: solid
+  color:
+    kind: rgb
+    value: "#ffffff"
+theme:
+  colors:
+    dk1: "#000000"
+    dk2: "#1F497D"
+    lt1: "#FFFFFF"
+    lt2: "#EEECE1"
+    accent1: "#4F81BD"
+    accent2: "#C0504D"
+    accent3: "#9BBB59"
+    accent4: "#8064A2"
+    accent5: "#4BACC6"
+    accent6: "#F79646"
+    hlink: "#0000FF"
+    folHlink: "#800080"
+  fonts:
+    display: Calibri
+    body: Calibri
+assets:
+  image-2:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_2.png
+  image-3:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_3.png
+  image-4:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_4.png
+  image-5:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_5.png
+  image-6:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_6.png
+  image-7:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_7.png
+  image-8:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_8.png
+elements:
+  - id: e0
+    name: Group 2
+    frame:
+      x: 0
+      y: 1000.75
+      width: 1919.96
+      height: 79.25
+    type: group
+    coordinateSpace:
+      width: 1919.96
+      height: 79.25
+    children:
+      - id: e0-0
+        name: Freeform 3
+        frame:
+          x: 0
+          y: 0
+          width: 1919.96
+          height: 79.25
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0 0 L 0 1 L 1 1 L 1 0 Z
+        fill:
+          kind: solid
+          color:
+            kind: rgb
+            value: "#0070C0"
+  - id: e1
+    name: Freeform 4
+    frame:
+      x: 47.34
+      y: 177.85
+      width: 546.56
+      height: 798.47
+    type: shape
+    geometry:
+      kind: path
+      viewBox:
+        width: 1
+        height: 1
+      path: M 0 0 L 1 0 L 1 1 L 0 1 L 0 0 Z
+    fill:
+      kind: none
+  - id: e2
+    name: Group 5
+    frame:
+      x: 685.33
+      y: 289.27
+      width: 767
+      height: 605
+    type: group
+    coordinateSpace:
+      width: 767
+      height: 605
+    children:
+      - id: e2-0
+        name: Freeform 6
+        frame:
+          x: 0
+          y: 0
+          width: 767
+          height: 605
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0 0 L 1 0 L 1 1 L 0 1 L 0 0 Z
+        fill:
+          kind: image
+          assetId: image-4
+          fit: fill
+  - id: e3
+    name: Group 7
+    frame:
+      x: 610.77
+      y: 177.85
+      width: 373.52
+      height: 273
+    type: group
+    coordinateSpace:
+      width: 373.52
+      height: 273
+    children:
+      - id: e3-0
+        name: Freeform 8
+        frame:
+          x: 0
+          y: 0
+          width: 373.51
+          height: 273
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0.18206 0 C 0.0815 0 0 0.1115 0 0.24908 L 0 0.75176 C 0 0.88242 0.07355 0.9896 0.16709 1 L 0.83291 1 C 0.92645 0.9896 1 0.88242 1 0.75176 L 1 0.24908 C 1 0.1115 0.9185 0 0.81794 0 Z
+        fill:
+          kind: image
+          assetId: image-5
+          fit: fill
+  - id: e4
+    name: Group 9
+    frame:
+      x: 599.54
+      y: 737.62
+      width: 398.28
+      height: 231.5
+    type: group
+    coordinateSpace:
+      width: 398.28
+      height: 231.5
+    children:
+      - id: e4-0
+        name: Freeform 10
+        frame:
+          x: 0
+          y: 0
+          width: 398.29
+          height: 231.5
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0.12583 0 C 0.05633 0 0 0.09188 0 0.20524 L 0 0.79572 C 0 0.90227 0.04974 0.98983 0.11341 1 L 0.88657 1 C 0.95023 0.98983 1 0.90227 1 0.79572 L 1 0.20524 C 1 0.09188 0.94367 0 0.87417 0 Z
+        fill:
+          kind: image
+          assetId: image-6
+          fit: fill
+  - id: e5
+    name: Group 11
+    frame:
+      x: 610.77
+      y: 460.14
+      width: 319.9
+      height: 234.68
+    type: group
+    coordinateSpace:
+      width: 319.9
+      height: 234.68
+    children:
+      - id: e5-0
+        name: Freeform 12
+        frame:
+          x: 0
+          y: 0
+          width: 319.9
+          height: 234.68
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0.1753 0 C 0.07849 0 0 0.0749 0 0.1673 L 0 0.83452 C 0 0.91848 0.06478 0.98798 0.14924 1 L 0.85131 1 C 0.93124 0.98863 0.99351 0.92578 1 0.84794 L 1 0.15388 C 0.99283 0.06776 0.91733 0 0.82526 0 Z
+        fill:
+          kind: image
+          assetId: image-7
+          fit: fill
+  - id: e6
+    name: Freeform 13
+    frame:
+      x: 1003.46
+      y: 177.85
+      width: 531.45
+      height: 268.88
+    type: shape
+    geometry:
+      kind: path
+      viewBox:
+        width: 1
+        height: 1
+      path: M 0 0 L 1 0 L 1 1 L 0 1 L 0 0 Z
+    fill:
+      kind: none
+  - id: e7
+    name: Freeform 14
+    frame:
+      x: 1589.14
+      y: 277.33
+      width: 306.28
+      height: 249.32
+    type: shape
+    geometry:
+      kind: path
+      viewBox:
+        width: 1
+        height: 1
+      path: M 0 0 L 1 0 L 1 1 L 0 1 L 0 0 Z
+    fill:
+      kind: none
+  - id: e8
+    name: Freeform 15
+    frame:
+      x: 1003.46
+      y: 531.22
+      width: 873.34
+      height: 476.19
+    type: shape
+    geometry:
+      kind: path
+      viewBox:
+        width: 1
+        height: 1
+      path: M 0 0 L 1 0 L 1 1 L 0 1 L 0 0 Z
+    fill:
+      kind: none
+  - id: e9
+    name: Group 16
+    frame:
+      x: 1703.01
+      y: 795.25
+      width: 216.95
+      height: 198.31
+    type: group
+    coordinateSpace:
+      width: 216.95
+      height: 198.31
+    children:
+      - id: e9-0
+        name: Freeform 17
+        frame:
+          x: 0
+          y: 0
+          width: 216.95
+          height: 198.31
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0 0 L 1 0 L 1 1 L 0 1 L 0 0 Z
+        fill:
+          kind: image
+          assetId: image-8
+          fit: fill
+  - id: e10
+    name: Group 18
+    frame:
+      x: 1175.41
+      y: 322.71
+      width: 694.93
+      height: 500.93
+    type: group
+    coordinateSpace:
+      width: 694.93
+      height: 500.93
+    children:
+      - id: e10-0
+        name: Freeform 19
+        frame:
+          x: 240.39
+          y: 6.67
+          width: 278.56
+          height: 245.69
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0 1 L 1 1 L 1 0 L 0 0 Z
+        fill:
+          kind: solid
+          color:
+            kind: rgb
+            value: "#000000"
+          opacity: 0
+      - id: e10-1
+        name: Freeform 20
+        frame:
+          x: 262.01
+          y: 209
+          width: 235.31
+          height: 156.55
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0 1 L 1 1 L 1 0 L 0 0 Z
+        fill:
+          kind: solid
+          color:
+            kind: rgb
+            value: "#000000"
+          opacity: 0
+      - id: e10-2
+        name: Freeform 21
+        frame:
+          x: 6.67
+          y: 229.41
+          width: 681.6
+          height: 136.32
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0 1 L 1 1 L 1 0 L 0 0 Z
+        fill:
+          kind: solid
+          color:
+            kind: rgb
+            value: "#000000"
+          opacity: 0
+      - id: e10-3
+        name: Freeform 22
+        frame:
+          x: 264.13
+          y: 282.43
+          width: 180.45
+          height: 160.52
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0 1 L 1 1 L 1 0 L 0 0 Z
+        fill:
+          kind: solid
+          color:
+            kind: rgb
+            value: "#000000"
+          opacity: 0
+      - id: e10-4
+        name: Freeform 23
+        frame:
+          x: 105.44
+          y: 288.81
+          width: 199.45
+          height: 205.44
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0 1 L 1 1 L 1 0 L 0 0 Z
+        fill:
+          kind: solid
+          color:
+            kind: rgb
+            value: "#000000"
+          opacity: 0
+  - id: e11
+    name: TextBox 24
+    frame:
+      x: 307.65
+      y: 16.86
+      width: 1283.01
+      height: 170.43
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: Fasal Rakshak
+              font:
+                kind: family
+                family: League Spartan
+              sizePt: 54
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.19
+        - runs: []
+          defaultRunStyle:
+            font:
+              kind: family
+              family: League Spartan
+            sizePt: 54
+            weight: 700
+            color:
+              kind: rgb
+              value: "#000000"
+          align: center
+          lineHeight: 1.19
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e12
+    name: Group 25
+    frame:
+      x: 1568.34
+      y: 1.8
+      width: 347.89
+      height: 176.83
+    type: group
+    coordinateSpace:
+      width: 347.89
+      height: 176.83
+    children:
+      - id: e12-0
+        name: Freeform 26
+        frame:
+          x: 0
+          y: 0
+          width: 347.89
+          height: 176.83
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0 0 L 1 0 L 1 1 L 0 1 L 0 0 Z
+        fill:
+          kind: image
+          assetId: image-2
+          fit: fill
+  - id: e13
+    name: Group 27
+    frame:
+      x: 0
+      y: 1.8
+      width: 192.4
+      height: 171.79
+    type: group
+    coordinateSpace:
+      width: 192.4
+      height: 171.79
+    children:
+      - id: e13-0
+        name: Freeform 28
+        frame:
+          x: 0
+          y: 0
+          width: 192.4
+          height: 171.79
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0.5 0 C 0.22386 0 0 0.22386 0 0.5 C 0 0.77614 0.22386 1 0.5 1 C 0.77614 1 1 0.77614 1 0.5 C 1 0.22386 0.77614 0 0.5 0 Z
+        fill:
+          kind: image
+          assetId: image-3
+          fit: fill
+  - id: e14
+    name: TextBox 29
+    frame:
+      x: 334.62
+      y: 208.11
+      width: 9.86
+      height: 56.46
+    type: shape
+    geometry:
+      kind: preset
+      preset: rect
+    fill:
+      kind: none
+    body:
+      paragraphs:
+        - runs:
+            - text: " "
+              font:
+                kind: family
+                family: Times New Roman MT Bold
+              sizePt: 28.99
+              weight: 700
+              color:
+                kind: rgb
+                value: "#FFFFFF"
+          align: left
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e15
+    name: TextBox 30
+    frame:
+      x: 1269.3
+      y: 869.86
+      width: 172.76
+      height: 114.79
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: Clean baseline
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 18
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.17
+        - runs:
+            - text: " learns normal spectral"
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 18
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.17
+        - runs:
+            - text: " "
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 18
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.17
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e16
+    name: TextBox 31
+    frame:
+      x: 1514.71
+      y: 807.99
+      width: 174.75
+      height: 100.2
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: NIR + UV +
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 18
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+        - runs:
+            - text: spatial spectral
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 18
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+        - runs:
+            - text: " fusion"
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 18
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e17
+    name: TextBox 32
+    frame:
+      x: 1721.87
+      y: 608.22
+      width: 111.32
+      height: 84.94
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: 100% inline
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 15.24
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+        - runs:
+            - text: " inspection goal"
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 15.24
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e18
+    name: TextBox 33
+    frame:
+      x: 1810.64
+      y: 1012.48
+      width: 13.62
+      height: 34.3
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: "2"
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 18
+              weight: 700
+              color:
+                kind: rgb
+                value: "#FFFFFF"
+          align: left
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e19
+    name: TextBox 34
+    frame:
+      x: 930.67
+      y: 495.95
+      width: 295.28
+      height: 194.57
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: " Current testing is slow and sample-based, causing detection delays."
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 15.36
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          markerStyle:
+            font:
+              kind: family
+              family: Arial
+          align: left
+          level: 1
+          bullet:
+            kind: character
+            character: •
+          lineHeight: 1.17
+          indentPt: 26.12
+          hangingIndentPt: 13.06
+        - runs: []
+          defaultRunStyle:
+            font:
+              kind: family
+              family: Arimo Bold
+            sizePt: 15.36
+            weight: 700
+            color:
+              kind: rgb
+              value: "#000000"
+          align: left
+          lineHeight: 1.17
+        - runs:
+            - text: Invisible contamination can reach packaging or distribution before detection.
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 15.36
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          markerStyle:
+            font:
+              kind: family
+              family: Arial
+          align: left
+          level: 1
+          bullet:
+            kind: character
+            character: •
+          lineHeight: 1.17
+          indentPt: 26.12
+          hangingIndentPt: 13.06
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e20
+    name: TextBox 35
+    frame:
+      x: 1701.85
+      y: 571.09
+      width: 151.35
+      height: 36.76
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: SAFE SCAN
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 19.64
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e21
+    name: TextBox 36
+    frame:
+      x: 1267
+      y: 826.72
+      width: 169.49
+      height: 46.29
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: ADAPTIVE
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 25.14
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: left
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e22
+    name: TextBox 37
+    frame:
+      x: 1380.97
+      y: 318.39
+      width: 7.63
+      height: 36.76
+    type: shape
+    geometry:
+      kind: preset
+      preset: rect
+    fill:
+      kind: none
+    body:
+      paragraphs:
+        - runs:
+            - text: " "
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 20.19
+              weight: 700
+              color:
+                kind: rgb
+                value: "#D5ECFF"
+          align: left
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e23
+    name: TextBox 38
+    frame:
+      x: 1302.76
+      y: 427.27
+      width: 291.48
+      height: 203.7
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: "OUR "
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 84.44
+              weight: 700
+              color:
+                kind: rgb
+                value: "#218842"
+          align: left
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e24
+    name: TextBox 39
+    frame:
+      x: 75.3
+      y: 184.52
+      width: 490.64
+      height: 63.47
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: PROPOSED SOLUTION
+              font:
+                kind: family
+                family: Times New Roman MT Bold
+              sizePt: 31.99
+              weight: 700
+              color:
+                kind: rgb
+                value: "#FFFFFF"
+          align: left
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e25
+    name: TextBox 40
+    frame:
+      x: 94.96
+      y: 252.98
+      width: 451.33
+      height: 804.22
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: "• "
+              font:
+                kind: family
+                family: Times New Roman MT Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+            - text: Inline inspection
+              font:
+                kind: family
+                family: Times New Roman MT Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#FFFFFF"
+            - text: " gate that continuously scans food moving on a conveyor using HSI with controlled "
+              font:
+                kind: family
+                family: Times New Roman MT Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+            - text: NIR + UV illumination.
+              font:
+                kind: family
+                family: Times New Roman MT Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#FFFFFF"
+          align: left
+          lineHeight: 1.19
+        - runs:
+            - text: "• Builds a "
+              font:
+                kind: family
+                family: Times New Roman MT Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+            - text: Spectral Health Fingerprint
+              font:
+                kind: family
+                family: Times New Roman MT Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#FFFFFF"
+            - text: " using spectral, spatial, surface and temporal information."
+              font:
+                kind: family
+                family: Times New Roman MT Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: left
+          lineHeight: 1.19
+        - runs:
+            - text: "• Compares every item against an "
+              font:
+                kind: family
+                family: Times New Roman MT Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+            - text: Adaptive Clean Baseline
+              font:
+                kind: family
+                family: Times New Roman MT Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#FFFFFF"
+            - text: " learned for the food type and production line."
+              font:
+                kind: family
+                family: Times New Roman MT Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: left
+          lineHeight: 1.19
+        - runs:
+            - text: "• "
+              font:
+                kind: family
+                family: Times New Roman MT Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+            - text: Edge AI
+              font:
+                kind: family
+                family: Times New Roman MT Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#FFFFFF"
+            - text: " fuses multimodal signals to generate a real-time microbial-risk score and contamination heatmap."
+              font:
+                kind: family
+                family: Times New Roman MT Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: left
+          lineHeight: 1.19
+        - runs: []
+          defaultRunStyle:
+            font:
+              kind: family
+              family: Times New Roman MT Bold
+            sizePt: 27
+            weight: 700
+            color:
+              kind: rgb
+              value: "#000000"
+          align: left
+          lineHeight: 1.19
+        - runs: []
+          defaultRunStyle:
+            font:
+              kind: family
+              family: Times New Roman MT Bold
+            sizePt: 27
+            weight: 700
+            color:
+              kind: rgb
+              value: "#000000"
+          align: left
+          lineHeight: 1.19
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e26
+    name: TextBox 41
+    frame:
+      x: 976.27
+      y: 455.14
+      width: 151.47
+      height: 38.18
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: THE ISSUE
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 21.1
+              weight: 700
+              color:
+                kind: rgb
+                value: "#F16315"
+          align: center
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e27
+    name: TextBox 42
+    frame:
+      x: 1703.01
+      y: 326.18
+      width: 170.46
+      height: 74.73
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: SMART RISK
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 19.17
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.17
+        - runs: []
+          defaultRunStyle:
+            font:
+              kind: family
+              family: Arimo Bold
+            sizePt: 19.17
+            weight: 700
+            color:
+              kind: rgb
+              value: "#000000"
+          align: center
+          lineHeight: 0.86
+        - runs: []
+          defaultRunStyle:
+            font:
+              kind: family
+              family: Arimo Bold
+            sizePt: 19.17
+            weight: 700
+            color:
+              kind: rgb
+              value: "#000000"
+          align: center
+          lineHeight: 0.86
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e28
+    name: TextBox 43
+    frame:
+      x: 1505.75
+      y: 767.32
+      width: 179.36
+      height: 36.66
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: MULTIMODAL
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 20.01
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: left
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e29
+    name: TextBox 44
+    frame:
+      x: 1028.05
+      y: 763.32
+      width: 172.25
+      height: 43.67
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: REAL-TIME
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 23.73
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: left
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e30
+    name: TextBox 45
+    frame:
+      x: 1097.18
+      y: 815.9
+      width: 5.67
+      height: 27.58
+    type: shape
+    geometry:
+      kind: preset
+      preset: rect
+    fill:
+      kind: none
+    body:
+      paragraphs:
+        - runs:
+            - text: " "
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 14.99
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: left
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e31
+    name: TextBox 46
+    frame:
+      x: 1553.9
+      y: 196.52
+      width: 262.42
+      height: 90.65
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: OUR INNOVATION!!
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 28.39
+              weight: 700
+              color:
+                kind: rgb
+                value: "#11863C"
+          align: left
+          lineHeight: 1.19
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e32
+    name: TextBox 47
+    frame:
+      x: 1031.36
+      y: 802.99
+      width: 162.64
+      height: 116.66
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: Edge AI
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 14.99
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.17
+        - runs:
+            - text: " Millisecond-level"
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 14.99
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.17
+        - runs:
+            - text: " decision pipeline"
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 14.99
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.17
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e33
+    name: TextBox 48
+    frame:
+      x: 87.91
+      y: 1017.13
+      width: 254.16
+      height: 48.07
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: "DESIGN LINK : "
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 25.99
+              weight: 700
+              color:
+                kind: rgb
+                value: "#F2F4F8"
+          align: left
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e34
+    name: TextBox 49
+    frame:
+      x: 289.17
+      y: 88.19
+      width: 1283.01
+      height: 62.93
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: “Suraksha, Satarkta aur Swachhta”
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 33.99
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e35
+    name: TextBox 50
+    frame:
+      x: 1048.29
+      y: 176.69
+      width: 466.42
+      height: 265.2
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: " • Adaptive Clean Baseline"
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 18
+              weight: 700
+              color:
+                kind: rgb
+                value: "#FFFFFF"
+          align: left
+          lineHeight: 1.4
+        - runs:
+            - text: " • NIR + UV Multimodal Sensing"
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 18
+              weight: 700
+              color:
+                kind: rgb
+                value: "#FFFFFF"
+          align: left
+          lineHeight: 1.4
+        - runs:
+            - text: " • Spectral Residual Mapping"
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 18
+              weight: 700
+              color:
+                kind: rgb
+                value: "#FFFFFF"
+          align: left
+          lineHeight: 1.4
+        - runs:
+            - text: " • Edge AI Risk Engine"
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 18
+              weight: 700
+              color:
+                kind: rgb
+                value: "#FFFFFF"
+          align: left
+          lineHeight: 1.4
+        - runs:
+            - text: " • Learn Wide → Deploy Narrow"
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 18
+              weight: 700
+              color:
+                kind: rgb
+                value: "#FFFFFF"
+          align: left
+          lineHeight: 1.4
+        - runs:
+            - text: " • BioSpectral Memory"
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 18
+              weight: 700
+              color:
+                kind: rgb
+                value: "#FFFFFF"
+          align: left
+          lineHeight: 1.4
+        - runs:
+            - text: " • Contamination Cluster Detection"
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 18
+              weight: 700
+              color:
+                kind: rgb
+                value: "#FFFFFF"
+          align: left
+          lineHeight: 1.4
+        - runs:
+            - text: " • Automatic Product Isolation"
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 18
+              weight: 700
+              color:
+                kind: rgb
+                value: "#FFFFFF"
+          align: left
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e36
+    name: TextBox 51
+    frame:
+      x: 1689.46
+      y: 356.1
+      width: 198.75
+      height: 100.2
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: Spectral anomaly
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 18
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+        - runs:
+            - text: " Risk score"
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 18
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+        - runs:
+            - text: " Action"
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 18
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0

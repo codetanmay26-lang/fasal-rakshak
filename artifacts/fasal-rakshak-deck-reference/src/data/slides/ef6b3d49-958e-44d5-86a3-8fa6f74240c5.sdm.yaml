@@ -1,0 +1,479 @@
+format: sdm
+version: 1
+size:
+  width: 1920
+  height: 1080
+background:
+  kind: solid
+  color:
+    kind: rgb
+    value: "#ffffff"
+theme:
+  colors:
+    dk1: "#000000"
+    dk2: "#1F497D"
+    lt1: "#FFFFFF"
+    lt2: "#EEECE1"
+    accent1: "#4F81BD"
+    accent2: "#C0504D"
+    accent3: "#9BBB59"
+    accent4: "#8064A2"
+    accent5: "#4BACC6"
+    accent6: "#F79646"
+    hlink: "#0000FF"
+    folHlink: "#800080"
+  fonts:
+    display: Calibri
+    body: Calibri
+assets:
+  image-1:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_1.png
+  image-2:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_2.png
+  image-3:
+    src: assets/imported-9b28f3e0-eeed-40c7-a1f1-f821c727c303/image_3.png
+elements:
+  - id: e0
+    name: Group 2
+    frame:
+      x: 1016.31
+      y: 177.82
+      width: 729.98
+      height: 812
+    type: group
+    coordinateSpace:
+      width: 729.98
+      height: 812
+    children:
+      - id: e0-0
+        name: Freeform 3
+        frame:
+          x: -0.01
+          y: 0
+          width: 729.98
+          height: 812
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0.05873 0.60626 C 0.05873 0.60626 0.05873 0.60626 0.14525 0.60626 C 0.15068 0.60626 0.1559 0.60984 0.15852 0.61565 C 0.15852 0.61565 0.15852 0.61565 0.20188 0.70522 C 0.20469 0.7108 0.20469 0.71796 0.20188 0.72355 C 0.20188 0.72355 0.20188 0.72355 0.15852 0.81312 C 0.1559 0.81892 0.15068 0.82251 0.14525 0.82251 C 0.14525 0.82251 0.14525 0.82251 0.05873 0.82251 C 0.05312 0.82251 0.04808 0.81893 0.04527 0.81312 C 0.04527 0.81312 0.04527 0.81312 0.00211 0.72355 C -0.0007 0.71796 -0.0007 0.7108 0.00211 0.70522 C 0.00211 0.70522 0.00211 0.70522 0.04527 0.61565 C 0.04808 0.60985 0.05311 0.60626 0.05873 0.60626 Z M 0.40256 0.11057 C 0.40256 0.11057 0.40256 0.11057 0.44705 0.11057 L 0.45224 0.11057 L 0.45719 0.1208 C 0.46409 0.13506 0.47211 0.15163 0.48144 0.17092 C 0.48574 0.17947 0.48574 0.19043 0.48144 0.19897 C 0.48144 0.19897 0.48144 0.19897 0.41505 0.33614 C 0.41103 0.34504 0.40303 0.35051 0.39474 0.35051 C 0.39474 0.35051 0.39474 0.35051 0.26224 0.35051 C 0.26009 0.35051 0.25801 0.35016 0.256 0.34951 L 0.2517 0.34736 L 0.25433 0.3419 C 0.27804 0.29271 0.30838 0.22975 0.34723 0.14915 C 0.35876 0.12525 0.37951 0.11056 0.40258 0.11056 L 0.40256 0.11056 Z M 0.25439 0 C 0.25439 0 0.25439 0 0.40385 0 C 0.41322 0 0.42225 0.00617 0.42678 0.01621 C 0.42678 0.01621 0.42678 0.01621 0.46694 0.09921 L 0.47147 0.10859 L 0.46789 0.10859 L 0.45101 0.10859 L 0.44367 0.09343 C 0.41567 0.03557 0.41567 0.03557 0.41567 0.03557 C 0.41165 0.02667 0.40365 0.0212 0.39536 0.0212 C 0.26286 0.0212 0.26286 0.0212 0.26286 0.0212 C 0.25428 0.0212 0.24655 0.02667 0.24226 0.03557 C 0.17614 0.17274 0.17614 0.17274 0.17614 0.17274 C 0.17185 0.1813 0.17185 0.19225 0.17614 0.20079 C 0.24224 0.33796 0.24224 0.33796 0.24224 0.33796 C 0.2444 0.34241 0.24739 0.34601 0.25094 0.34849 L 0.25194 0.349 L 0.24655 0.36018 L 0.24254 0.36851 L 0.2467 0.37061 C 0.24896 0.37135 0.25132 0.37172 0.25373 0.37172 C 0.4032 0.37172 0.4032 0.37172 0.4032 0.37172 C 0.41257 0.37172 0.42159 0.36555 0.42612 0.35552 C 0.50101 0.20079 0.50101 0.20079 0.50101 0.20079 C 0.50585 0.19115 0.50585 0.17878 0.50101 0.16915 C 0.49164 0.1498 0.48345 0.13287 0.47628 0.11808 L 0.47266 0.11061 L 0.48943 0.11061 C 0.54156 0.11061 0.62497 0.11061 0.75844 0.11061 C 0.78072 0.11061 0.80226 0.1253 0.81301 0.1492 C 0.81301 0.1492 0.81301 0.1492 0.99136 0.51764 C 1.00288 0.54061 1.00288 0.57002 0.99136 0.59297 C 0.99136 0.59297 0.99136 0.59297 0.81301 0.96141 C 0.80226 0.9853 0.78074 1 0.75844 1 C 0.75844 1 0.75844 1 0.40254 1 C 0.37947 1 0.35872 0.9853 0.3472 0.96141 C 0.3472 0.96141 0.3472 0.96141 0.16962 0.59297 C 0.15809 0.57 0.15809 0.54059 0.16962 0.51764 C 0.16962 0.51764 0.16962 0.51764 0.23556 0.38084 L 0.24111 0.36929 L 0.24093 0.3692 C 0.23693 0.3664 0.23355 0.36235 0.23112 0.35734 C 0.23112 0.35734 0.23112 0.35734 0.15656 0.20261 C 0.15172 0.19297 0.15172 0.18061 0.15656 0.17097 C 0.15656 0.17097 0.15656 0.17097 0.23112 0.01624 C 0.236 0.00617 0.24469 0 0.25439 0 Z
+        fill:
+          kind: solid
+          color:
+            kind: rgb
+            value: "#808080"
+          opacity: 0.02
+  - id: e1
+    name: Group 4
+    frame:
+      x: 1195.45
+      y: 349.27
+      width: 504.49
+      height: 539.45
+    type: group
+    coordinateSpace:
+      width: 504.49
+      height: 539.45
+    children:
+      - id: e1-0
+        name: Freeform 5
+        frame:
+          x: 0
+          y: 0
+          width: 504.49
+          height: 539.45
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0 0 L 1 0 L 1 1 L 0 1 L 0 0 Z
+        fill:
+          kind: image
+          assetId: image-1
+          fit: fill
+  - id: e2
+    name: Group 6
+    frame:
+      x: 1016.3
+      y: 177.82
+      width: 730.49
+      height: 811.81
+    type: group
+    coordinateSpace:
+      width: 730.49
+      height: 811.81
+    children:
+      - id: e2-0
+        name: Freeform 7
+        frame:
+          x: 0
+          y: 0
+          width: 730.49
+          height: 811.8
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0 1 L 1 1 L 1 0 L 0 0 Z
+        fill:
+          kind: solid
+          color:
+            kind: rgb
+            value: "#000000"
+          opacity: 0
+  - id: e3
+    name: TextBox 8
+    frame:
+      x: 629.38
+      y: 86.02
+      width: 455.96
+      height: 109.33
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: Fasal Rakshak
+              font:
+                kind: family
+                family: Times New Roman MT Bold
+              sizePt: 54.99
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: left
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e4
+    name: TextBox 9
+    frame:
+      x: 260.39
+      y: -12.32
+      width: 1270.86
+      height: 110
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: SMART INDIA HACKATHON 2026
+              font:
+                kind: family
+                family: Garamond Bold
+              sizePt: 60
+              weight: 700
+              color:
+                kind: rgb
+                value: "#1F497D"
+          align: left
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e5
+    name: TextBox 10
+    frame:
+      x: 42.79
+      y: 249.63
+      width: 973.52
+      height: 679.2
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: Problem Statement ID-
+              font:
+                kind: family
+                family: Arial Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+            - text: SIH26233
+              font:
+                kind: family
+                family: Arial Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#218842"
+          markerStyle:
+            font:
+              kind: family
+              family: Arial
+          align: left
+          level: 1
+          bullet:
+            kind: character
+            character: •
+          lineHeight: 2.39
+          indentPt: 45.9
+          hangingIndentPt: 22.95
+        - runs:
+            - text: "Problem Statement Title- "
+              font:
+                kind: family
+                family: Arial Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+            - text: "Inline Microbial Contamination Detection Using Hyperspectral Edge Sensors "
+              font:
+                kind: family
+                family: Arial Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#218842"
+          markerStyle:
+            font:
+              kind: family
+              family: Arial
+          align: left
+          level: 1
+          bullet:
+            kind: character
+            character: •
+          lineHeight: 2.39
+          indentPt: 45.9
+          hangingIndentPt: 22.95
+        - runs:
+            - text: "Theme- "
+              font:
+                kind: family
+                family: Arial Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+            - text: Agriculture, FoodTech & Rural Development
+              font:
+                kind: family
+                family: Arial Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#218842"
+          markerStyle:
+            font:
+              kind: family
+              family: Arial
+          align: left
+          level: 1
+          bullet:
+            kind: character
+            character: •
+          lineHeight: 2.39
+          indentPt: 45.9
+          hangingIndentPt: 22.95
+        - runs:
+            - text: PS Category-
+              font:
+                kind: family
+                family: Arial Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+            - text: Hardware
+              font:
+                kind: family
+                family: Arial Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#218842"
+          markerStyle:
+            font:
+              kind: family
+              family: Arial
+          align: left
+          level: 1
+          bullet:
+            kind: character
+            character: •
+          lineHeight: 2.39
+          indentPt: 45.9
+          hangingIndentPt: 22.95
+        - runs:
+            - text: Team ID-
+              font:
+                kind: family
+                family: Arial Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+            - text: "128406"
+              font:
+                kind: family
+                family: Arial Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#218842"
+          markerStyle:
+            font:
+              kind: family
+              family: Arial
+          align: left
+          level: 1
+          bullet:
+            kind: character
+            character: •
+          lineHeight: 2.39
+          indentPt: 45.9
+          hangingIndentPt: 22.95
+        - runs:
+            - text: Team Name -
+              font:
+                kind: family
+                family: Arial Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+            - text: Tech Saarthi
+              font:
+                kind: family
+                family: Arial Bold
+              sizePt: 27
+              weight: 700
+              color:
+                kind: rgb
+                value: "#218842"
+          markerStyle:
+            font:
+              kind: family
+              family: Arial
+          align: left
+          level: 1
+          bullet:
+            kind: character
+            character: •
+          lineHeight: 2.39
+          indentPt: 45.9
+          hangingIndentPt: 22.95
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
+  - id: e6
+    name: Group 11
+    frame:
+      x: 1572.85
+      y: 1.15
+      width: 347.89
+      height: 176.83
+    type: group
+    coordinateSpace:
+      width: 347.89
+      height: 176.83
+    children:
+      - id: e6-0
+        name: Freeform 12
+        frame:
+          x: 0
+          y: 0
+          width: 347.89
+          height: 176.83
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0 0 L 1 0 L 1 1 L 0 1 L 0 0 Z
+        fill:
+          kind: image
+          assetId: image-2
+          fit: fill
+  - id: e7
+    name: Group 13
+    frame:
+      x: 0
+      y: 0
+      width: 218.79
+      height: 195.36
+    type: group
+    coordinateSpace:
+      width: 218.79
+      height: 195.36
+    children:
+      - id: e7-0
+        name: Freeform 14
+        frame:
+          x: 0
+          y: 0
+          width: 218.79
+          height: 195.36
+        type: shape
+        geometry:
+          kind: path
+          viewBox:
+            width: 1
+            height: 1
+          path: M 0.5 0 C 0.22386 0 0 0.22386 0 0.5 C 0 0.77614 0.22386 1 0.5 1 C 0.77614 1 1 0.77614 1 0.5 C 1 0.22386 0.77614 0 0.5 0 Z
+        fill:
+          kind: image
+          assetId: image-3
+          fit: fill
+  - id: e8
+    name: TextBox 15
+    frame:
+      x: 218.79
+      y: 188.36
+      width: 1386.69
+      height: 54
+    type: text
+    body:
+      paragraphs:
+        - runs:
+            - text: ‘Adaptive Hyperspectral Food Safety & Contamination Detection System’
+              font:
+                kind: family
+                family: Arimo Bold
+              sizePt: 29.99
+              weight: 700
+              color:
+                kind: rgb
+                value: "#000000"
+          align: center
+          lineHeight: 1.4
+      verticalAlign: top
+      overflow: visible
+      insetsPt:
+        top: 0
+        right: 0
+        bottom: 0
+        left: 0
